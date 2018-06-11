@@ -1,0 +1,32 @@
+var langMessage = {
+  zh: {
+    a1: '表白墙',
+    a2: '表白',
+    a3: '表白内容',
+    a4: '表白人名称',
+    a5: '被表白人名称',
+    a6: '星云钱包环境未运行，请安装钱包插件',
+    a7: '合约检测失败，请检查浏览器钱包插件环境！',
+    a8: '表白墙暂无表白',
+    a9: '表白成功请等待一分钟刷新页面查看所有表白',
+    a10: '暂无表白',
+    a11: '创建星云钱包',
+    a12: '安装星云钱包',
+    a13: '联系我2214267569@qq.com',
+  },
+  en: {
+    a1: 'White wall',
+    a2: 'White',
+    a3: 'White content',
+    a4: 'White name',
+    a5: 'TO White name',
+    a6: 'Nebula wallet environment is not running, please install wallet plugin',
+    a7: 'Contract detection failed, check browser wallet plugin environment!',
+    a8: 'Whiting wall no White',
+    a9: 'Whiting for success,please wait for a minute to refresh the page to see my Whites.',
+    a10:'No White',
+    a11:'Create nebula Purse',
+    a12:'Install nebula Purse',
+    a13:'Contact me: 2214267569e@qq.com',
+  }
+}
